@@ -1,0 +1,14 @@
+git clone https://github.com/YOUR_USERNAME/zenflix.git
+cd zenflix
+NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_firebase_project_id
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
+NEXT_PUBLIC_FIREBASE_APP_ID=your_firebase_app_id
+
+STRIPE_SECRET_KEY=your_stripe_secret_key
+STRIPE_PRICE_ID=your_stripe_price_id
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
+
+NEXT_PUBLIC_BASE_URL=https://your-deployed-url.vercel.app
