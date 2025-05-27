@@ -12,3 +12,6 @@ STRIPE_PRICE_ID=your_stripe_price_id
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
 
 NEXT_PUBLIC_BASE_URL=https://your-deployed-url.vercel.app
+git add .
+git commit -m "Initial ZenFlix app with Firebase auth and Stripe subscriptions"
+git push origin main
